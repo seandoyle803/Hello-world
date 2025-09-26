@@ -2,10 +2,11 @@
 This is a sample of a good README.MD file that can be used when describing a project. You can change the ehadings to fit your needs but the idea is to provide a summart if the project, files used, programs written and how to execute the program. Think of this as documentations
 
 ## Table of contents
-- PROJECT TITLE [Project-Title] 
+- [PROJECT TITLE] (#Project-Title)
 - DESCRIPTION [Description]
 - TOOLS USED [Tools-Used]
-- FILES USED [Files-Used]
+- DATA USED [Data-Used]
+- CODE [Code]
 - HOW TO RUN PROGRAM [How-to-Run-Program]
 - ADDITIONAL INFO [Additional-Info]
 
@@ -21,9 +22,13 @@ Practice using Github by creating a sample repository. Make sire you add a descr
 
 Discuss all programming languages and tools in this project. This includes Python, SQL, Excel, Power BI, Websites and more.
 
-## Files Used
+## Data Used
 
-Discuss all of the files used in this project. This should include data that can be separated out by raw data, clean data, supporting data. Also should include code files including the main script and helper functions/modules.
+Discuss all of the files used in this project. This should include data that can be separated out by raw data, clean data, supporting data.
+
+## Code 
+
+Include the code that you used in the program. Should include code files including the main script and helper functions/modules.
 
 ## How to Run Program
 
