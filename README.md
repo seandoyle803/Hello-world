@@ -21,14 +21,14 @@ Practice using Github by creating a sample repository. Make sire you add a descr
 
 Discuss all programming languages and tools in this project. This includes Python, SQL, Excel, Power BI, Websites and more.
 
-#Files Used
+## Files Used
 
 Discuss all of the files used in this project. This should include data that can be separated out by raw data, clean data, supporting data. Also should include code files including the main script and helper functions/modules.
 
-# How to Run Program
+## How to Run Program
 
 Give an explanation on how to run the program. This includes inputs, outputs, and the main goal of the program.
 
-# Additional Info
+## Additional Info
 
 Give some additional info that can be important to the reader. This includes links, results, and how I am using this information
