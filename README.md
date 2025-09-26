@@ -2,7 +2,7 @@
 This is a sample of a good README.MD file that can be used when describing a project. You can change the ehadings to fit your needs but the idea is to provide a summart if the project, files used, programs written and how to execute the program. Think of this as documentations
 
 ## Table of contents
-- [PROJECT TITLE] (#Project-Title)
+- [PROJECT TITLE](#Project-Title)
 - DESCRIPTION [Description]
 - TOOLS USED [Tools-Used]
 - DATA USED [Data-Used]
